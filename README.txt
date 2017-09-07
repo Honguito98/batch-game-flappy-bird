@@ -11,14 +11,12 @@
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  GNU General Public License for more details.
 
- This is an ported game, i.e Flappy Bird is developed by Dong Nguyen
- The point is only for know at certain limits of batch files
- using some executables for commandline and NOT for theft
- CREDITS.
+ This is an adapted game, i.e Flappy Bird is originally created by Dong Nguyen.
+ The only purpose is to evaluate performance of batch files
+ using some executables for commandline.
 
- This ported game, game code, techniques, including Seta:DSP,
- Seta:GPU, Fn.dll (Seta:Core), reverse engineer are
- developed by Honguito98.
+ This adapted game, game code, techniques, including Seta:DSP,
+ Seta:GPU, Fn.dll (Seta:Core), are developed by Honguito98.
  
- None of the abovementioned are responsible for damage or loss of
+ None of the above mentioned are responsible for damage or loss of
  information.
